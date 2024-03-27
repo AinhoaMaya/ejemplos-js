@@ -29,8 +29,8 @@
 // console.log(sentence.substring(0, 4));
 
 // split() -> devuelve un array a partir de un string (separador)
-// let sentence = "Hola, soy una frase";
-// console.log(sentence.split(","));
+let sentence = "Hola, soy una frase";
+console.log(sentence.split(","));
 
 // charAt() -> devuelve el carácter que se encuentra en la posición indicada (en qué posición empieza a contar)
 // let sentence = "43901389H";
